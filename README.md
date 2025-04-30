@@ -1,2 +1,2 @@
 Ola!!! Estou me especializando como programador aprendendo...
-hmtl,css,java,react!!!
+html,css,java,react!!!
